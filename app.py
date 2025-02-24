@@ -27,7 +27,7 @@ def healthcare_chatbot(user_input):
 
 def main():
  
-    st.title("Healthcare Assistant Chatbot")
+    st.title("AI Healthcare Assistant Chatbot")
 
     user_input = st.text_input("How can I assist you today?", "")
 
